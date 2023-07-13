@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olaoluwa Ikuesan @olaikuesan
 - 👀 I’m interested in Python, Data Sciencce and Artificial Intelligence. I happen to have a degree in Biochemistry and I'm hoping to use my skills and knowledge in the AI industry in the near future.
-- 🌱 I’m currently learning artificial intelligence and Data Science
-- 💞️ I’m looking to collaborate on AI and Data Science projects
+- 🌱 I’m currently working as a Cloud DevOps Engineer
+- 💞️ I’m looking to collaborate on AI and Software Engineering projects
 - 📫 How to reach me is through my email on olaoluikuesan@gmail.com
 
 <!---
